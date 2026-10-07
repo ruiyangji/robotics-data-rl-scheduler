@@ -7,6 +7,12 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+📖 **Documentation & Deep Dives**:
+- 📝 [**Engineering Blog Post**](docs/blog_post.md): *What Scheduling Cluster Jobs Taught Me About Robot Data*
+- 📐 [**System Design & Architecture Specification**](docs/architecture_and_design.md): Mathematical formulations, event lifecycle, and schema specs
+- 🎙️ [**Technical Interview Walkthrough & Defense Cheatsheet**](docs/interview_deep_dive.md): 5-minute cold script and tough Q&A answers
+- 📢 [**LinkedIn & Social Announcement Draft**](docs/linkedin_post.md): Ready-to-publish social showcase
+
 ---
 
 ## 1. Project Summary & Genesis
